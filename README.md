@@ -1,5 +1,9 @@
 # From Data to Insights: My Data Science Project Portfolio
 
+To protect client confidentiality, this portfolio showcases my data science work using carefully desensitized datasets sourced from publicly available information. While these examples don’t contain real client data, they accurately reflect the types of challenges I’ve solved, the methodologies I’ve applied, and the impactful insights I’ve delivered.
+
+Welcome!  
+
 - Unveiling Business Insights - A Comprehensive Data Analysis of Yelp Dataset
 - Empowering User Experience - Optimizing Product Recommendations through AB Testing and UI Enhancements
 - Revolutionizing Cash Flow Forecasts - A Paradigm Shift in Purchase and Redemption Predictions
